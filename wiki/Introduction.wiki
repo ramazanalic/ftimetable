@@ -2,8 +2,7 @@
 
 = Introduction =
 
-Timetable can be viewed for either a Qualification, Class Group or Venue
-
+The default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue
 
 = Details =
 
