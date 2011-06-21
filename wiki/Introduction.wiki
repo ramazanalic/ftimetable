@@ -10,8 +10,3 @@ Timetable can be viewed for either a Qualification, Class Group or Venue
 The first shows the time table as well as a calender on the left that allows the selection of the date for the Timetable.   By default the current date is selected.  
 
 Below the calender is several drop down boxes that allow you to select based on Qualification, Class Group or Venue.
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
