@@ -10,10 +10,10 @@ The default or home page has three sets of objects:
 
 There is the main timetable window that shows the timetable defined by days of week and predefined time slots of the day.  On the timetable window you can select any timeslot for any day by clicking the link in the timeslot. A detailed window will appear which shows:
 
-  *Qualification Details
-  *Subject Details
-  *Class Group 
-  *Venue
+  * Qualification Details
+  * Subject Details
+  * Class Group 
+  * Venue
 
 On the left side there is a calender object which allows for the selection of the specific date for the Timetable.   By default the current date is selected.  
 
