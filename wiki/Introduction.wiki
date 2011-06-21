@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#Summary of the TimeTable Page.
 
 = Introduction =
 
-The default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue
+The main or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue
 
 = Details =
 
