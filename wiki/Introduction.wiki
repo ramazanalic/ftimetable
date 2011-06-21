@@ -1,5 +1,3 @@
-#Summary of the Timetable Page.
-
 = Introduction =
 
 The home or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue. 
