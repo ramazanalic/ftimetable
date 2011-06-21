@@ -1,11 +1,26 @@
-#Summary of the TimeTable Page.
+#Summary of the Timetable Page.
 
 = Introduction =
 
-The main or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue
+The home or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue
 
 = Details =
 
-The first shows the time table as well as a calender on the left that allows the selection of the date for the Timetable.   By default the current date is selected.  
+The default or home page has three sets of objects: 
 
-Below the calender is several drop down boxes that allow you to select based on Qualification, Class Group or Venue.
+There is the main timetable window that shows the timetable defined by days of week and predefined time slots of the day.  On the timetable window you can select any timeslot for any day by clicking the link in the timeslot. A detailed window will appear which shows:
+
+  *Qualification Details
+  *Subject Details
+  *Class Group 
+  *Venue
+
+On the left side there is a calender object which allows for the selection of the specific date for the Timetable.   By default the current date is selected.  
+
+Below the calender they are several drop down boxes that allow you to select timetable based on Qualification, Class Group or Venue.
+
+When Qualification is selected.  You will need to select the Site Cluster, The Qualification and the Qualification Level
+
+When Class Group is selected. You need to select the Site Cluster, the subject and the class group.  
+
+When a venue is select is selected. You need to select the site cluster, the site and the room.  
