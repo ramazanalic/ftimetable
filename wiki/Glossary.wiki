@@ -31,7 +31,7 @@ A class is similar to a [#Class_Group Class Group].
 ==Class Group==
 A Class Group defines a particular class that is taught by a particular lecturer at a particular [#Cluster Cluster] for a specific subject and for selected students.
 ==Cluster==
-In cases where a campus has sites separated by fairly long distances it is necessary to cluster sites together so that a program can have classes shared across sites within a particular cluster. Normally the sites are separated by less than 1Km and allows lecturer and students to travel easily between the sites in the cluster. A large site that has no adjacent sites can be established as a cluster on its own.
+In cases where a campus has sites separated by fairly long distances it is necessary to cluster sites together so that a program can have classes shared across sites within a particular cluster. Normally the sites are separated by less than 1Km and allows lecturers and students to travel effortlessly between the sites in the cluster. A large site that has no adjacent sites can be established as a cluster on its own.
 ==Offering Type==
 The Offering Type determines the daily time period for a class. It also determines whether the class can held on weekend. The Offering Type normally determines whether a program is full time or Part time.  Full Time is normally held during the day and Part Time usually held after normal working hours.   
 
