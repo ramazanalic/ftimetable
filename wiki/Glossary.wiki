@@ -19,9 +19,9 @@ Flex Time Table was developed initially for Walter Sisulu University by the ICT 
 The Academic Block defines the Time Block that a [#Class Class] will be held.  It is defined by the Start Week and End Week. Normally it is defined as Full Academic or Semester where semester can Semester 1 or Semester 2. The system gives flexibility to allow an Academic block to be define based on the Start week and End week. Example:
 
 ||ID||Name||Start||End||Year||	 
-||1||Year||1||52||
-||2||Semester 1||1||36||
-||3||Semester 2||37||52||		
+||1||Year||1||52||Yes||
+||2||Semester 1||1||36||No||
+||3||Semester 2||37||52||No||		
 
 ==Campus==
 ==Class==
