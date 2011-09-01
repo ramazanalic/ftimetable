@@ -26,25 +26,34 @@ The Academic Block defines a block of weeks within an academic year that a parti
 [#Introduction Goto Top]
 ==Campus==
 For most universities a campus is a large private area with many buildings. At some universities such as Walter Sisulu University(WSU) a campus is a virtual area with many sites. In the case of WSU a campus encompasses a particular municipal area such as Buffalo City, Butter worth, Mthatha and Queenstown. In some cases the sites within a campus are separated by up to 30Km. 
+[#Introduction Goto Top]
 ==Class==
 A class is similar to a [#Class_Group Class Group].
+[#Introduction Goto Top]
 ==Class Group==
 A Class Group defines a particular class that is taught by a particular lecturer at a particular [#Cluster Cluster] for a specific subject and for selected students.
+[#Introduction Goto Top]
 ==Cluster==
 In cases where a campus has sites separated by fairly long distances it is necessary to cluster sites together so that a program can have classes shared across sites within a particular cluster. Normally the sites are separated by less than 1Km and allows lecturers and students to travel effortlessly between the sites in the cluster. A large site that has no adjacent sites can be established as a cluster on its own.
+[#Introduction Goto Top]
 ==Offering Type==
 The Offering Type determines the daily time period for a class. It also determines whether the class can held on weekend. The Offering Type normally determines whether a program is full time or Part time.  Full Time is normally held during the day and Part Time usually held after normal working hours.   
 
 ||ID||	Code||	Name||	Start	||End||	Sat. Classes	||Start	||End|| 
 ||1|| Full Time ||Full Time||08:00||16:25||No|| 	08:00 ||	15:35|| 
-
+[#Introduction Goto Top]
 ==Program==
-This is essentially the particular course of study that a student is undertaking at the university.  
+This is essentially the particular course of study that a student is undertaking at the university.
+[#Introduction Goto Top]  
 ==Qualification==
-This is the same as program. 
+This is the same as program.
+[#Introduction Goto Top] 
 ==Resource==
 A Resource is associated with a class.  It can be lecture, a lab or a group tutorial.  The application gives flexibility in creating any number of resources for a particular class.   In some cases a class can have different labs for different groups of students within the same class.  
+[#Introduction Goto Top]
 ==Site==
 A site is particular branch of the University. It is a part of a campus as well as a part of a cluster and some cases it can constitute a cluster. 
+[#Introduction Goto Top]
 ==Subject==
 Wikipedia gives a comprehensive definition at http://en.wikipedia.org/wiki/Course_%28education%29.
+[#Introduction Goto Top]
