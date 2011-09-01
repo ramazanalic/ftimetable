@@ -15,7 +15,7 @@ When go to the the application URL, by default, you will see the Timetable View 
   * By Class
   * By Qualification (Program)
   * By Venue
-To select the type you simply need to click the appropriate selection from the Type DropDown Control that is on left side below the Calendar control.  
+To select the type you simply need to click the appropriate selection from the Type DropDown Control that is on left side below the Calendar control.  [http://code.google.com/p/ftimetable/source/browse/ClassType.JPG]
 
 
 ===By Class===
