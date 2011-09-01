@@ -2,7 +2,7 @@
 
 The home or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue. 
 
- * [#Viewing_Timetable Viewing Timetable] 
+ * [#Viewing_Timetable] 
   * By Classes
   * By Qualification (Program)
   * By Qualification (Program)
