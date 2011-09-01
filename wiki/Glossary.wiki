@@ -16,19 +16,28 @@ Flex Time Table was developed initially for Walter Sisulu University by the ICT 
  * [#Subject Subject]
 
 ==Academic Block==
-The Academic Block defines the Time Block that a [#Class Class] will be held.  It is defined by the Start Week and End Week. Normally it is defined as Full Academic or Semester where semester can Semester 1 or Semester 2. The system allows flexibility by defining an Academic block according a Start week and an End week. Example:
+The Academic Block defines a block of weeks within an academic year that a particular [#Class Class] is held.  It is defined by the start week and end week. Normally a subject it is defined as Full Academic Year or Semester Subject. The system allows flexibility by defining Academic blocks according a start week and an end week. Example:
 
 ||*ID*||*Name*||*Start*||*End*||*Year*||	 
 ||1||Year||1||52||Yes||
 ||2||Semester 1||1||36||No||
-||3||Semester 2||37||52||No||		
+||3||Semester 2||37||52||No||	
 
 ==Campus==
+For most universities a campus is a large private area with many buildings. At some universities such as Walter Sisulu University(WSU) a campus is a virtual area with many sites. In the case of WSU a campus encompasses a particular municipal area such as Buffalo City, Butter worth, Mthatha and Queenstown. In some cases the sites within a campus are separated by up to 30Km. 
 ==Class==
+A class is similar to a [#Class_Group Class Group].
 ==Class Group==
+A Class Group defines a particular class that is taught by a particular lecturer at a particular [#Cluster Cluster] for a specific subject and for selected students.
 ==Cluster==
+In cases where a campus has sites separated by fairly long distances it is necessary to cluster sites together so that a program can have classes shared across sites within a particular cluster. Normally the sites are separated by less than 1Km and allows lecturer and students to travel easily between the sites in the cluster. A large site that has no adjacent sites is considered a cluster on its own.
 ==Offering Type==
+The Offering Type determines the daily time period for a class. It also determines whether the class can held on weekend. The Offering Type normally determines whether a program is full time or Part time.  Full Time is normally held during the day and Part Time usually held after normal working hours.    
 ==Program==
-==Qualifications==
+This is essentially the particular course of study that a student is undertaking at the university.  
+==Qualification==
+This is the same as program.   
 ==Site==
+A site is particular branch of the University. It is a part of a campus as well as a part of a cluster and some cases it can constitute a cluster. 
 ==Subject==
+Wikipedia gives a comprehensive definition at http://en.wikipedia.org/wiki/Course_%28education%29.
