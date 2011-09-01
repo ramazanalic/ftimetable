@@ -2,16 +2,18 @@
 
 The home or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue. 
 
- * [#Viewing_Timetable] 
-  * By Classes
-  * By Qualification (Program)
-  * By Qualification (Program)
- * Authentication
- * System Administration
- * Space Management
- * Academic Management 
+ * [#Viewing_Timetable Viewing Timetable] 
+ * [#Authentication Authentication]
+ * [#Reports Reports]
+ * [#Academic_Management Academic Management]
+ * [#Space_Management Space Management]
+ * [#System_Administration System Administration] 
 
 ==Viewing Timetable==
+They are three ways that the Time Table can be viewed:
+  * By Classes
+  * By Qualification (Program)
+  * By Venue
 
 The default or home page has three sets of objects: 
 
@@ -39,3 +41,9 @@ When Class Group is selected; You need to select the Site Cluster, the subject a
 When a venue is select is selected; You need to select the site cluster, the site and the room.  
 
 You are required to click the Display Button once the specific timetable parameters are selected.  The timetable will show the details for that timetable type.
+
+
+==Authentication==
+==System Administration==
+==Space Management==
+==Academic Management== 
