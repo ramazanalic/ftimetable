@@ -1,7 +1,6 @@
-#Gives a tutorial on how to use the Application
+#summary A Quick guide to getting started with Flex Time Table Application
 
 =Getting Started=
-
 The home or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue. 
 
  * [#Viewing_Timetable Viewing Timetable] 
