@@ -12,6 +12,7 @@ Flex Time Table was developed initially for Walter Sisulu University by the ICT 
  * [#Offering_Type Offering Type]
  * [#Program Program]
  * [#Qualifications Qualifications]
+ * [#Resource Resource]
  * [#Site Site]
  * [#Subject Subject]
 
@@ -30,13 +31,15 @@ A class is similar to a [#Class_Group Class Group].
 ==Class Group==
 A Class Group defines a particular class that is taught by a particular lecturer at a particular [#Cluster Cluster] for a specific subject and for selected students.
 ==Cluster==
-In cases where a campus has sites separated by fairly long distances it is necessary to cluster sites together so that a program can have classes shared across sites within a particular cluster. Normally the sites are separated by less than 1Km and allows lecturer and students to travel easily between the sites in the cluster. A large site that has no adjacent sites is considered a cluster on its own.
+In cases where a campus has sites separated by fairly long distances it is necessary to cluster sites together so that a program can have classes shared across sites within a particular cluster. Normally the sites are separated by less than 1Km and allows lecturer and students to travel easily between the sites in the cluster. A large site that has no adjacent sites can be established as a cluster on its own.
 ==Offering Type==
 The Offering Type determines the daily time period for a class. It also determines whether the class can held on weekend. The Offering Type normally determines whether a program is full time or Part time.  Full Time is normally held during the day and Part Time usually held after normal working hours.    
 ==Program==
 This is essentially the particular course of study that a student is undertaking at the university.  
 ==Qualification==
-This is the same as program.   
+This is the same as program. 
+==Resource==
+A Resource is associated with a class.  It can be lecture, a lab or a group tutorial.  The application gives flexibility in creating any number of resources for a particular class.   In some cases a class can have different labs for different groups of students within the same class.  
 ==Site==
 A site is particular branch of the University. It is a part of a campus as well as a part of a cluster and some cases it can constitute a cluster. 
 ==Subject==
