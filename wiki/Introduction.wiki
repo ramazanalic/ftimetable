@@ -1,8 +1,17 @@
-= Introduction =
+=Getting Started=
 
 The home or default page shows the Timetable.  The Timetable can be viewed for either a Qualification, Class Group or Venue. 
 
-= Details =
+ * Viewing Timetable
+  * By Classes
+  * By Qualification (Program)
+  * By Qualification (Program)
+ * Authentication
+ * System Administration
+ * Space Management
+ * Academic Management 
+
+==Home Page=
 
 The default or home page has three sets of objects: 
 
