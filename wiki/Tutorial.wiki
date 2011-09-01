@@ -11,11 +11,14 @@ The home or default page shows the Timetable.  The Timetable can be viewed for e
  * [#System_Administration System Administration] 
 
 ==Viewing Timetable==
-They are three ways that the Time Table can be viewed:
-  * By Classes
+When go to the the application URL, by default, you will see the Timetable View page. On this page you can view a particular Timetable in three ways:
+  * By Class
   * By Qualification (Program)
   * By Venue
+To select the type you simply need to click the appropriate selection from the Type DropDown Control that is on left side below the Calendar control.  
 
+
+===By Class===
 The default or home page has three sets of objects: 
 
 There is the main timetable window that shows the timetable defined by days of week and predefined time slots of the day.  The timetable window will show the scheduled resources as links in the various timeslots. These resources are abbreviated as the subject code+class group ID+resource index. A resource index indicate the type of resource such as  a lecture, a lab or a tutorial. 
