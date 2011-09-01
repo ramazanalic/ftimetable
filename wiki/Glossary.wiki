@@ -1,0 +1,27 @@
+#summary This defines a number of terms used in the Flex Time Table Application.
+
+= Introduction =
+Flex Time Table was developed initially for Walter Sisulu University by the ICT Director, Mr Courtney Walker.  The terms used are therefore associated with the University.
+
+
+ * [#Academic_Block Academic Block]
+ * [#Campus Campus]
+ * [#Class Class]
+ * [#Class_Group Class Group]
+ * [#Cluster Cluster]
+ * [#Offering_Type Offering Type]
+ * [#Program Program]
+ * [#Qualifications Qualifications]
+ * [#Site Site]
+ * [#Subject Subject]
+
+==Academic Block==
+==Campus==
+==Class==
+==Class Group==
+==Cluster==
+==Offering Type==
+==Program==
+==Qualifications==
+==Site==
+==Subject==
