@@ -36,7 +36,7 @@ In cases where a campus has sites separated by fairly long distances it is neces
 The Offering Type determines the daily time period for a class. It also determines whether the class can held on weekend. The Offering Type normally determines whether a program is full time or Part time.  Full Time is normally held during the day and Part Time usually held after normal working hours.   
 
 ||ID||	Code||	Name||	Start	||End||	Sat. Classes	||Start	||End|| 
-||1||FullTime||Full Time||08:00||16:25||No|| 	08:00 ||	15:35|| 
+||1|| FullTime ||Full Time||08:00||16:25||No|| 	08:00 ||	15:35|| 
 
 ==Program==
 This is essentially the particular course of study that a student is undertaking at the university.  
