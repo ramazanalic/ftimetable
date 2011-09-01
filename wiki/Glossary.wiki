@@ -23,7 +23,7 @@ The Academic Block defines a block of weeks within an academic year that a parti
 ||1||Year||1||52||Yes||
 ||2||Semester 1||1||36||No||
 ||3||Semester 2||37||52||No||	
-
+[#Introduction Goto Top]
 ==Campus==
 For most universities a campus is a large private area with many buildings. At some universities such as Walter Sisulu University(WSU) a campus is a virtual area with many sites. In the case of WSU a campus encompasses a particular municipal area such as Buffalo City, Butter worth, Mthatha and Queenstown. In some cases the sites within a campus are separated by up to 30Km. 
 ==Class==
