@@ -11,7 +11,7 @@ Flex Time Table was developed initially for Walter Sisulu University by the ICT 
  * [#Cluster Cluster]
  * [#Offering_Type Offering Type]
  * [#Program Program]
- * [#Qualifications Qualifications]
+ * [#Qualification Qualification]
  * [#Resource Resource]
  * [#Site Site]
  * [#Subject Subject]
